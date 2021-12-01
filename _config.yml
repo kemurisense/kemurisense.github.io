@@ -9,26 +9,25 @@
 title: Kemuri
 email: hello@kemuri.io
 description: > # this means to ignore newlines until "baseurl:"
-  Kemuri produces wellbeing monitors for elderly people to allow
-  safer and happier independent living
+  Kemuri services have ceased to operate
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.kemuri.io" # the base hostname & protocol for your site
+url: "https://www.kemurisense.com" # the base hostname & protocol for your site
 
 # A few parameters for jekyll-seo-tag
-lang: en_GB
-locale: en_GB
-facebook:
-  publisher: KemuriSense
-logo:  /images/logos/kemuri-logo.png
+# lang: en_GB
+# locale: en_GB
+# facebook:
+#   publisher: KemuriSense
+# logo:  /images/logos/kemuri-logo.png
 
 
 webmaster_verifications:
   google: Obc0bgbEMdjwcnaOLTG5XozG1XfECB9KlcVRVYZIXFY
 
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-sitemap
+#   - jekyll-seo-tag
 
 twitter_username: kemurisense
 github_username:  kemurisense
